@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tren-berita.github.io/tren-news/sitemap.xml
